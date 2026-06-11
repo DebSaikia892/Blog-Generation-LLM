@@ -11,7 +11,7 @@ The generated blog is displayed in the Streamlit application.
 
 Installation
 Clone the Repository
-git clone https://github.com/your-username/blog-generation-llm.git
+git clone https://github.com/DebSaikia892/Blog-Generation-LLM.git
 cd blog-generation-llm
 Create a Virtual Environment
 python -m venv venv
